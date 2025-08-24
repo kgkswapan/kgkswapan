@@ -7,7 +7,7 @@ I build **financial models** and **trading-support automation** to make desks fa
 **Certs:** MSc Finance (NEOMA) • CFA L1 • FMVA®
 
 **Focus areas**
-- Financial models: valuation & portfolio analytics (ETF/Options)
+- Financial models: valuation & portfolio analytics
 - Trading support: incident triage, service watchdogs, batch monitoring
 - Data tooling: log parsing, dashboards, lightweight data quality checks
 
