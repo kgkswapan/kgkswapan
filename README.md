@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kazi Gulam Kadar
 
-<!--
-**kgkswapan/kgkswapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Investment & Markets (Analyst / PM / FO–MO)** with a techno-functional background in Capital Markets IT.  
+I build **financial models** and **trading-support automation** to make desks faster, safer, and clearer.
 
-Here are some ideas to get you started:
+**Stack:** Excel, VBA, Python, SQL, PowerShell | Power BI, Grafana | Windows/Linux | Bloomberg (BMC)  
+**Certs:** MSc Finance (NEOMA) • CFA L1 • FMVA®
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas**
+- Financial models: valuation & portfolio analytics (ETF/Options)
+- Trading support: incident triage, service watchdogs, batch monitoring
+- Data tooling: log parsing, dashboards, lightweight data quality checks
+
+**Pinned (coming next)**
+- `trade-log-analyzer` — parse synthetic trading logs → error summary
+- `service-watchdog-ps` — auto-restart critical services + alert
+- `batch-orchestrator-monitor` — schedule status export for Grafana
+
+**Connect:** linkedin.com/in/kgkswapan • kazi.swapan@gmail.com
+
+_All repo data here is synthetic. No employer code, logs, or secrets._
