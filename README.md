@@ -4,7 +4,7 @@
 I build **financial models** and **trading-support automation** to make desks faster, safer, and clearer.
 
 **Stack:** Excel, VBA, Python, SQL, PowerShell | Git | Power BI | Windows/Linux | Bloomberg (BMC)  
-**Certs:** MSc Finance (NEOMA) • CFA L1 • FMVA®
+**Certs:** MSc Finance (NEOMA) | Wealth Management | Real Estate | CFA L1 | FMVA® | ESG Investing
 
 **Focus areas**
 - Financial models: valuation & portfolio analytics
