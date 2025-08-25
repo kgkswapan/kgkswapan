@@ -11,10 +11,9 @@ I build **financial models** and **trading-support automation** to make desks fa
 - Trading support: incident triage, service watchdogs, batch monitoring
 - Data tooling: log parsing, dashboards, lightweight data quality checks
 
-**Pinned (coming next)**
-- `trade-log-analyzer` — parse synthetic trading logs → error summary
-- `service-watchdog-ps` — auto-restart critical services + alert
-- `batch-orchestrator-monitor` — schedule status export for Grafana
+## Projects
+
+- [system-report-ps](https://github.com/kgkswapan/system-report-ps) — PowerShell system snapshot with Pester tests, built for trading support ops.
 
 **Connect:** linkedin.com/in/kgkswapan • kazi.swapan@gmail.com
 
