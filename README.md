@@ -11,6 +11,13 @@ I build **financial models** and **trading-support automation** to make desks fa
 - Trading support: incident triage, service watchdogs, batch monitoring
 - Data tooling: log parsing, dashboards, lightweight data quality checks
 
+## Browse by category
+
+- 🔧 [PowerShell Projects](https://github.com/search?q=user%3Akgkswapan+topic%3Apowershell&type=repositories)
+- 🐍 [Python Projects](https://github.com/search?q=user%3Akgkswapan+topic%3Apython&type=repositories)
+- 📊 [Financial Models (Excel)](https://github.com/search?q=user%3Akgkswapan+topic%3Aexcel+topic%3Afinance&type=repositories)
+- 📈 [Trading Support](https://github.com/search?q=user%3Akgkswapan+topic%3Atrading-support&type=repositories)
+
 ## Projects
 
 - [system-report-ps](https://github.com/kgkswapan/system-report-ps) — PowerShell system snapshot with Pester tests, built for trading support ops.
