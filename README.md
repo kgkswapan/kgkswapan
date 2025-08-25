@@ -3,7 +3,7 @@
 **Investment & Markets (Analyst / PM / FO–MO)** with a techno-functional background in Capital Markets IT.  
 I build **financial models** and **trading-support automation** to make desks faster, safer, and clearer.
 
-**Stack:** Excel, VBA, Python, SQL, PowerShell | Power BI, Grafana | Windows/Linux | Bloomberg (BMC)  
+**Stack:** Excel, VBA, Python, SQL, PowerShell | Power BI | Windows/Linux | Bloomberg (BMC)  
 **Certs:** MSc Finance (NEOMA) • CFA L1 • FMVA®
 
 **Focus areas**
