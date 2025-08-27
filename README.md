@@ -5,6 +5,7 @@ I build **financial models** and **trading-support automation** to make desks fa
 
 **Stack:** Excel, VBA, Python, SQL, PowerShell | Git | Power BI | Windows/Linux | Bloomberg (BMC)  
 **Certs:** MBA | MSc Finance (NEOMA) | Wealth Management | Real Estate | CFA L1 | FMVA® | ESG Investing | OKR
+**Experience:** Application Production Support (BNP Paribas CIB), Ex-entrepreneur (ip telephony software products dev), Asset Management (Internship)
 
 **Focus areas**
 - Financial models: valuation & portfolio analytics
